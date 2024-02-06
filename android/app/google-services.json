@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601512016959",
+    "project_id": "levelup-6bc9a",
+    "storage_bucket": "levelup-6bc9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601512016959:android:030f3398523c8732e70c8a",
+        "android_client_info": {
+          "package_name": "dev.sreeteja.levelup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7c_cpJTTgkHCU1Iqp4OLCAkT4OQIFels"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
